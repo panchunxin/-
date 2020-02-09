@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <view>明毅微信公众号</view>
+  <view>明毅官网</view>
+  <view>已购买产品用户登录</view>
+  <view>未购买产品用户认证登录</view>
+</view>
